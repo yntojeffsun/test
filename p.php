@@ -1,2 +1,9 @@
+<?php
+phpinfo();
 
-none
+abc
+
+1
+
+t2
+>>>>>>> t2
